@@ -220,6 +220,46 @@ start cmd
 start cmd
 start cmd
 start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
 t.run"help"
 t.run"help"
 t.run"calc.exe"
@@ -296,6 +336,54 @@ t.run"help"
 t.run"help"
 t.run"help"
 t.run"help"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
+t.run"calc.exe"
 t.run"calc.exe"
 t.run"calc.exe"
 t.run"calc.exe"
